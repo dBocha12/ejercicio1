@@ -1,0 +1,7 @@
+C:\Users\Daniel\source\repos\Ejeercicio1\Ejeercicio1\obj\Debug\Ejeercicio1.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Ejeercicio1\Ejeercicio1\obj\Debug\Ejeercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Ejeercicio1\Ejeercicio1\bin\Debug\Ejeercicio1.exe.config
+C:\Users\Daniel\source\repos\Ejeercicio1\Ejeercicio1\bin\Debug\Ejeercicio1.exe
+C:\Users\Daniel\source\repos\Ejeercicio1\Ejeercicio1\bin\Debug\Ejeercicio1.pdb
+C:\Users\Daniel\source\repos\Ejeercicio1\Ejeercicio1\obj\Debug\Ejeercicio1.exe
+C:\Users\Daniel\source\repos\Ejeercicio1\Ejeercicio1\obj\Debug\Ejeercicio1.pdb
